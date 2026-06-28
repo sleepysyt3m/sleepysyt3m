@@ -2,7 +2,7 @@
 
 Main account: MoonyCloudyArt
 
-https://adriansblinkiecollection.neocities.org/a3.gif https://adriansblinkiecollection.neocities.org/a6.gif https://adriansblinkiecollection.neocities.org/a10.gif https://adriansblinkiecollection.neocities.org/a12.gif https://adriansblinkiecollection.neocities.org/a14.gif 
+Text
 <!--
 **sleepysyt3m/sleepysyt3m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -5,7 +5,7 @@
 <b>Artist, writer, and baker</b> <br>
 <b>Art commissions are OPEN</b> <br>
 <b>I am currently in Intro to Software and Technology</b> <br>
-<b>Im learning how to use html and css</b>
+<b>Im learning how to use html and css</b> <br>
 <b>Any tips are appreciated!</b>
 <hr>
 <h2>Socials:</h2>

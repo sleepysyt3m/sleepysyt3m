@@ -1,7 +1,6 @@
 <img width="736" height="240" alt="Image" src="https://github.com/user-attachments/assets/6b7a1fdc-57b4-416c-93a4-8b18cdbee6ea" />
 
 <h1>Info:</h1>
-<b>5teen</b> <br>
 <b>Artist, writer, and baker</b> <br>
 <b>Art commissions are OPEN</b> <br>
 <b>I am currently in Intro to Software and Technology</b> <br>

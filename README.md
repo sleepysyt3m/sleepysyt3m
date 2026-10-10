@@ -9,7 +9,8 @@
 <hr>
 
 <h2>Socials:</h2>
-<b> <a href="https://www.tiktok.com/@nocturnalvinny?_r=1&_t=ZP-994tf8A8k5H">Tiktok</a> </b> <br>
+
 <b> <a href="https://www.instagram.com/sleepysyst3m/">Instagram</a> </b> <br>
 <b> <a href="https://www.depop.com/ruinvex/">Depop</a> </b> <br>
-<b> <a href="https://linktr.ee/moonycloudyart">Linktree</a></b>
+<b> <a href="https://linktr.ee/moonycloudyart">Linktree</a></b> <br>
+<b> <a href="https://vrchat.com/home/user/usr_37ece79e-0e9e-4ab7-8752-be1014483f99">VRchat</a></b>
